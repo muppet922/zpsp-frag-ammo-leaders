@@ -1,0 +1,59 @@
+[en]
+ZPNM_FRAGS_LEADERS = Frag Leaders
+ZPNM_PACKS_LEADERS = Ammo Pack Leaders
+
+[es]
+ZPNM_FRAGS_LEADERS = Líderes de Frags
+ZPNM_PACKS_LEADERS = Líderes de Paquetes de Munición
+
+[ru]
+ZPNM_FRAGS_LEADERS = Лидеры по убийствам
+ZPNM_PACKS_LEADERS = Лидеры по боеприпасам
+
+[de]
+ZPNM_FRAGS_LEADERS = Frag-Führer
+ZPNM_PACKS_LEADERS = Munitionspaket-Führer
+
+[fr]
+ZPNM_FRAGS_LEADERS = Leaders des frags
+ZPNM_PACKS_LEADERS = Leaders des packs de munitions
+
+[pl]
+ZPNM_FRAGS_LEADERS = Liderzy fragów
+ZPNM_PACKS_LEADERS = Liderzy paczek amunicji
+
+[pt]
+ZPNM_FRAGS_LEADERS = Líderes de Frags
+ZPNM_PACKS_LEADERS = Líderes de Pacotes de Munição
+
+[tr]
+ZPNM_FRAGS_LEADERS = Frag Liderleri
+ZPNM_PACKS_LEADERS = Mermi Paketi Liderleri
+
+[bg]
+ZPNM_FRAGS_LEADERS = Лидери по убийства
+ZPNM_PACKS_LEADERS = Лидери по боеприпаси
+
+[ro]
+ZPNM_FRAGS_LEADERS = Lideri la Fraguri
+ZPNM_PACKS_LEADERS = Lideri la Pachete de Muniție
+
+[hu]
+ZPNM_FRAGS_LEADERS = Frag Vezetők
+ZPNM_PACKS_LEADERS = Lőszercsomag Vezetők
+
+[cs]
+ZPNM_FRAGS_LEADERS = Vedoucí v zabití
+ZPNM_PACKS_LEADERS = Vedoucí v muničních balíčcích
+
+[sv]
+ZPNM_FRAGS_LEADERS = Frag-ledare
+ZPNM_PACKS_LEADERS = Ammunitionspaket-ledare
+
+[uk]
+ZPNM_FRAGS_LEADERS = Лідери за фрагами
+ZPNM_PACKS_LEADERS = Лідери за боєприпасами
+
+[el]
+ZPNM_FRAGS_LEADERS = Ηγέτες σε Εξοντώσεις
+ZPNM_PACKS_LEADERS = Ηγέτες σε Πακέτα Πυρομαχικών
